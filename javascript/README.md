@@ -1,0 +1,1 @@
+Learning JavaScript with CodeAcademy. This is a collection of mini projects to be done as completion of a module.
