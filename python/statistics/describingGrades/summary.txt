@@ -1,0 +1,42 @@
+On exam 1, the average and median scores were 80 and 80, respectively. The distribution is symmetric, with a similar distribution of scores to the left and right of the center.
+
+The range is close to 35, with the lowest grade close to 55 and the largest grade close to 90. There is one student, who scored close to 55, who is considered an outlier.
+
+#####################
+As the teacher, the shape of the distribution may be similar to what you expect, with a symmetric distribution. However, the median and average are a little lower than you would like. Next year, you may adjust instruction or the exam itself to increase the mean and median scores.
+
+Also, you should be concerned about the student who scored ~55. Why did they receive such a low score, and what could you have done to help them before the next exam?
+
+#####################
+
+On exam 2, the average and median scores were 82 and 84, respectively. The distribution has a left skew, which agrees with our finding that the average of our dataset is smaller than the median.
+
+The range is close to 38, with the lowest grade close to 60 and the largest grade close to 98.
+
+#####################
+Looking at exam 2, you may be pleased that the average and median values of the distribution are greater than exam 1. This indicates that the top half of the class performed better on this exam.
+
+However, this distribution has no outliers, and a range that is greater than exam 1. This should be concerning, as there is a very wide range of understanding in the class. What separates the students in who scored in the 60s from those who scored in the 90s? What could you do next year to address this gap in understanding?
+
+
+#####################
+
+On exam 3, the average and median scores were 77 and 80, respectively. The distribution is bimodal, and both modes have a similar tail on both sides of their peak, indicating that each is symmetric.
+
+The range is close to 42, with the lowest grade close to 56 and the largest grade close to 98.
+
+#####################
+This exam distribution should be the most concerning as a teacher. While the average and median scores are close to exam 1, there is a bimodal distribution. The likely answer is that a group of students (roughly half) missed a substantial amount of instruction during exam 3 — maybe a multi-day eighth-grade or athletics trip. What should you do next year to ensure you don’t see this distribution again?
+
+
+#####################
+
+
+On the final exam, the average and median scores were 80 and 80, respectively. The distribution is symmetric, with a similar distribution of scores to the left and right of the center.
+
+The range is close to 30, with the lowest grade close to 68 and the largest grade close to 98. There is one student, who scored close to 98, that is considered an outlier.
+
+#####################
+Overally, you should be pleased with this distribution. While the average and median values are the same as exam 1, this test was more difficult. It covered material from the entire year. Additionally, none of your students failed the test, and the spread was the smallest all year.
+
+Next year, you hope the final exam score will improve by simply addressing needs from the other exams.
